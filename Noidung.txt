@@ -1,0 +1,4 @@
+You can use this token to access HTTP API:
+7401999265:AAHoDpzOwUI5ewYQMdQwNAMOzQyTf5l_q8Q
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
